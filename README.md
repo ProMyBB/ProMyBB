@@ -5,4 +5,5 @@
 - 📫 Türkçe Dil Paketimizde karşılaştığınız hatalar, tercüme hataları ve eksiklikleri bize https://mybb.pro/forum-ceviri-hatasi-ve-sorun-bildirimi adresinden konu açarak iletebilirsiniz.
 - ✨ MyBB için Türkçe destek almak için https://mybb.pro adresini ziyaret edebilirsiniz.
 - ⚡ İşbirliği, İletişim için info@mybb.pro mail adresine mail gönderebilirsiniz.
-
+- MyBB.Pro Gizlilik Politikası: https://mybb.pro/gizlilik-politikasi/
+- MyBB.Pro Kullanım Koşulları: https://mybb.pro/kullanim-kosullari/
